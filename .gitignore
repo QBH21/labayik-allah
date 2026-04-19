@@ -37,7 +37,7 @@ yarn-error.*
 *.pdf
 
 # Old template files
-components/
+/components/
 
 # local env files
 .env*.local
